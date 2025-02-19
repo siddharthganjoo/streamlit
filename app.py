@@ -1,7 +1,7 @@
 import streamlit as st
-# import jsonlines
+import jsonlines
 import pandas as pd
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 # Translation mapping for outlier region labels
 translation_map = {
    "Bloed": "Blood",
