@@ -30,12 +30,12 @@ thresholds = {
    "OpenCrack": 20,
    "Crack": 175,
    "Wrinkle": 6500,
-   "Feather": 100,
-   "CalciumSpot": 100,
-   "Dust": 150,
-   "Group_Dirty": 20,
-   "Group_Damaged": 20,
-   "Group_ShellDeviation": 1000
+   "Feather": 99999,
+   "CalciumSpot": 9999,
+   "Dust": 199950,
+   "Group_Dirty": 99999,
+   "Group_Damaged": 99999,
+   "Group_ShellDeviation": 9999
 }
 # Streamlit UI
 st.title("FN Analysis of Egg Batch")
